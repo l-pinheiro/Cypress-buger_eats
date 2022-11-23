@@ -1,2 +1,2 @@
 # Cypress-buger_eats
-Repositório do projeto buger eats do curso cypress discovery do qaninja
+Repositório do projeto buger eats do curso cypress discovery (qaninja)
