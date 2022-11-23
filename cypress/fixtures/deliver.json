@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Luana Correa",
+        "cpf": "12345678901",
+        "email": "luana.correa@email.com",
+        "whatsapp": "9100000000",
+        "adress": {
+            "postacode": "66023170",
+            "street": "Rua Cesário Alvim",
+            "number": "13",
+            "details": "ap 30",
+            "district": "Cidade Velha",
+            "city_state": "Belém/PA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Lucas Silva",
+        "cpf": "123456789AA",
+        "email": "lucas.silva@email.com",
+        "whatsapp": "9199999999",
+        "adress": {
+            "postacode": "66023170",
+            "street": "Rua Cesário Alvim",
+            "number": "13",
+            "details": "ap 30",
+            "district": "Cidade Velha",
+            "city_state": "Belém/PA"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    
+    "email_inv": {
+        "name": "Pedro Costa",
+        "cpf": "12345678901",
+        "email": "pedro.costa.invalido",
+        "whatsapp": "9199999999",
+        "adress": {
+            "postacode": "66023170",
+            "street": "Rua Cesário Alvim",
+            "number": "13",
+            "details": "ap 30",
+            "district": "Cidade Velha",
+            "city_state": "Belém/PA"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
